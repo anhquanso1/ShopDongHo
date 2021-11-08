@@ -217,17 +217,25 @@
 
 	<div>
 		<i class="fa fa-map-marker"></i>
-		<p><span>123 Điện Biên Phủ</span> Bình Thạnh, TP HCM</p>
+		<p><span>Đ/c: 02 Võ Oanh, Bình Thạnh ,TP.HCM</p>
 	</div>
 
 	<div>
 		<i class="fa fa-phone"></i>
-		<p>0909.999.999</p>
+		<p>Hotline: 0909.999.999</p>
 	</div>
 
 	<div>
 		<i class="fa fa-envelope"></i>
-		<p><a href="mailto:support@company.com">QTDwatch@gmail.com</a></p>
+		<p><a href="mailto:QTDwatch@gmail.com">QTDwatch@gmail.com</a></p>
+	</div>
+	<div>
+		<i class="fa fa-envelope"></i>
+		<p><a href="/ShopDongHo/hethongcuahang.php"> - Hệ thống cửa hàng</a></p>
+	</div>
+	<div>
+		<i class="fa fa-envelope"></i>
+		<p><a href="/ShopDongHo/baohanh.php"> - Chính sách bảo hành</a></p>
 	</div>
 
 </div>

@@ -87,6 +87,7 @@
                     <li><a href="index.php"      id="change_color_menu">Trang chủ</a></li>
                     <li><a href="listcart.php"   id="change_color_menu">Giỏ hàng</a></li>
                     <li><a href="/ShopDongHo/baohanh.php"   id="change_color_menu">Chính sách bảo hành</a></li>
+                    <li><a href="/ShopDongHo/hethongcuahang.php"   id="change_color_menu">Hệ thống cửa hàng</a></li>
                   
                     <?php 
                      if(isset($_SESSION['username']))

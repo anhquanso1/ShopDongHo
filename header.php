@@ -38,7 +38,7 @@
       font-size: 2rem;
     }
     .menu__header{
-      background: #333333;
+      background: #1e1f24;
       top:0;
       position: fixed;
       z-index:3;
